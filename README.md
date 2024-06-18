@@ -24,10 +24,10 @@ As a consultant to another beverage company, the goal is to curate Coca-Cola’s
 - matplotlib.pyplot: For creating data visualizations.
 
 ## Dataset Description
-Income statement and balance sheet data can be found [Here]()
+Income statement and balance sheet data can be found [Here](https://github.com/Mayreeobi/Financial-Statement-Analysis/blob/main/Dataset%20description.pdf)
 
 ## Findings & Recommendations
-[Here]()
+Findings and recommendations can be found [Here](https://github.com/Mayreeobi/Financial-Statement-Analysis/blob/main/Financial%20Analysis%20Report%20of%20Coca-cola.pdf)
 
 ## Further Analysis
 Cash flow statement analysis will be included for a more comprehensive understanding of Coca-Cola's financial health.
