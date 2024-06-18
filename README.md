@@ -8,7 +8,7 @@ As a consultant to another beverage company, the goal is to curate Coca-Cola’s
 * Balance Sheet [Here](https://github.com/Mayreeobi/Financial-Statement-Analysis/blob/main/Coca-Cola%20bal%20sheet.ipynb)
 
 ## Objectives: 
-- Scrape financial data [Here](https://investors.coca-colacompany.com/financial-information/financial-results)
+- Scrape financial data from investors.coca-colacompany.com
 - Retrieve income statement and balance sheet data for the period 2013-2023.
 - Preprocess and clean the financial data for analysis.
 - Perform exploratory data analysis (EDA) to identify trends.
