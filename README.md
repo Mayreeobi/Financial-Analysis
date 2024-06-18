@@ -3,8 +3,9 @@
 ## Project Overview
 As a consultant to another beverage company, the goal is to curate Coca-Cola’s financial report from 2013 to 2023 to uncover patterns and trends that can be replicated for your company's success. This project involves a methodical examination of Coca-Cola's financial performance over this period to identify actionable insights regarding profitability, liquidity, and solvency. By analyzing key financial metrics, we aim to provide data-driven recommendations for informed decision-making.
 
-* Python Code  [Here]()
-* Python Code [Here]()
+## Python Code
+* Income Statement [Here](https://github.com/Mayreeobi/Financial-Statement-Analysis/blob/main/Coca-Cola%20IncomeStatment.ipynb)
+* Balance Sheet [Here](https://github.com/Mayreeobi/Financial-Statement-Analysis/blob/main/Coca-Cola%20bal%20sheet.ipynb)
 
 ## Objectives: 
 - Scrape financial data [Here](https://investors.coca-colacompany.com/financial-information/financial-results)
